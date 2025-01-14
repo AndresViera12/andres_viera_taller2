@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Andres_viera_taller"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="android.example.andres_viera_taller.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.Andres_viera_taller">

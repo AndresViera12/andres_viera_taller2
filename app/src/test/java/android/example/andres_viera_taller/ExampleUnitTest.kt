@@ -1,4 +1,4 @@
-package com.example.andres_viera_taller
+package android.example.andres_viera_taller
 
 import org.junit.Test
 

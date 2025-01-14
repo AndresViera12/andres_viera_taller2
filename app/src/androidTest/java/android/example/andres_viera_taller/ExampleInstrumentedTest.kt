@@ -1,4 +1,4 @@
-package com.example.andres_viera_taller
+package android.example.andres_viera_taller
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

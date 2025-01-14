@@ -1,4 +1,4 @@
-package com.example.andres_viera_taller.ui.theme
+package android.example.andres_viera_taller.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

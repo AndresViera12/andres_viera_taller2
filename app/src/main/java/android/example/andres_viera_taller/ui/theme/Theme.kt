@@ -1,6 +1,5 @@
-package com.example.andres_viera_taller.ui.theme
+package android.example.andres_viera_taller.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
